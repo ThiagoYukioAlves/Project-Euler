@@ -23,6 +23,7 @@ void main(){
     }
 
     printf("Total sum: %lu \n", sum);
+    getch();
 
     return;
 }
